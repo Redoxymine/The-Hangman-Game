@@ -1,7 +1,7 @@
 #Author : Redoxymine
 #Git : https://github.com/Redoxymine/
 
-#Main
+#Start Game
 
 from script import script 
 

@@ -1,4 +1,7 @@
 #Author : Redoxymine
+#Git : https://github.com/Redoxymine/
+
+#HANGMAN GAME - SCRIPT
 
 import random
 
@@ -33,7 +36,7 @@ class Game():
         print("\n")
 
     def update_progress(self,indexes,letter):
-        #This method to update the game progress
+        #This method will update the game progress
 
         for self.index in indexes:
             self.progress[self.index] = letter
